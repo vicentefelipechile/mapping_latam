@@ -4,7 +4,7 @@ social_link: twitter
 social_username: broccolini
 github_repo: athena
 github_username: broccolini
-theme_color: light
+theme_color: dark
 remote_theme: internet-de-france/athena
 baseurl: /mapping_latam
 defaults:
